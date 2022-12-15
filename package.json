@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "lodash": "^4.17.21",
-    "nodejs": "^0.0.0"
+    "nodejs": "^0.0.0",
+    "prettier": "^2.8.1"
   },
   "name": "course",
   "description": "Мой первый проект на GitHub",
