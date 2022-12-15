@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "lodash": "^4.17.21",
     "nodejs": "^0.0.0"
   },
   "name": "course",
   "description": "Мой первый проект на GitHub",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

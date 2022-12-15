@@ -1,1 +1,3 @@
-console.log('Hello, JS!');
+import _ from lodash;
+
+console.log(_.last(['one', 'two']));
